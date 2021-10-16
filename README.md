@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @goksel98
-- 🌱 I’m currently learning basics of the Python
+- 👋 Hi, I’m Göksel Göktaş.
+
 
 
 <!---
